@@ -23,3 +23,9 @@
 //! - get timezone
 //! - get swap
 //!
+
+//! source:
+//! - `lspci`
+
+pub mod disk;
+
