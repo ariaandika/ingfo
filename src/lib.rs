@@ -28,4 +28,4 @@
 //! - `lspci`
 
 pub mod disk;
-
+pub mod os;
