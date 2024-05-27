@@ -26,6 +26,8 @@
 
 //! source:
 //! - `lspci`
+//! - dmidecode
+//! - lshw
 
 
 pub mod disk;
